@@ -1,0 +1,18 @@
+{
+  "name": "aa-practice-for-week-04-reading-tests-exercise",
+  "version": "0.1.0",
+  "description": "Practice reading test files",
+  "main": "funcs.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
